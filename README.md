@@ -3,11 +3,11 @@ I`m frontend developer and this github is my pet-projects library
 
 ## Projects:
 
-- Evolianium:
+- [Evolianium](#evolianium):
   - [documentation (private)](https://github.com/Evolianka/)
   - [architecture (private)](https://github.com/Evolianka/)
   - [repo](https://github.com/Evolianka/)
-- Evolianium-school:
+- [Evolianium-school](#evolianium-school):
   - [documentation (private)](https://github.com/Evolianka/)
   - [architecture (private)](https://github.com/Evolianka/)
   - [repo](https://github.com/Evolianka/)
@@ -23,18 +23,18 @@ It is my main fullstack-project. Evolianium is ed-tech ecosystem, that created f
 - Angular, Vue
 
 ### Services:
-- venus:
-  - [documentation (private)](https://github.com/Evolianka/)
-  - [repo](https://github.com/Evolianka/)
-- mara:
-  - [documentation (private)](https://github.com/Evolianka/)
-  - [repo](https://github.com/Evolianka/)
-- astarte:
-  - [documentation (private)](https://github.com/Evolianka/)
-  - [repo](https://github.com/Evolianka/)
-- minerva:
-   - [documentation (private)](https://github.com/Evolianka/)
-   - [repo](https://github.com/Evolianka/)
+- [venus](#venus):
+  - [documentation (private)]()
+  - [repo](https://github.com/Evolianka/venus)
+- [mara](#mara):
+  - [documentation (private)]()
+  - [repo](https://github.com/Evolianka/mara)
+- [astarte](#astarte):
+  - [documentation (private)]()
+  - [repo](https://github.com/Evolianka/astarte)
+- [minerva](#minerva):
+   - [documentation (private)]()
+   - [repo](https://github.com/Evolianka/minerva)
 
 ### common:
 - [ui-kit]()
@@ -67,30 +67,30 @@ and for charity.
 
 ### services:
 - apollus: 
-    - [documentation (private)](https://github.com/Evolianka/)
-    - [repo](https://github.com/Evolianka/)
+    - [documentation (private)]()
+    - [repo](https://github.com/Evolianka/apollus)
 - mimirus:
-    - [documentation (private)](https://github.com/Evolianka/)
-    - [repo](https://github.com/Evolianka/)
+    - [documentation (private)]()
+    - [repo](https://github.com/Evolianka/mimirus)
 - cryptus:
-  - [documentation (private)](https://github.com/Evolianka/)
-  - [repo](https://github.com/Evolianka/)
+  - [documentation (private)]()
+  - [repo](https://github.com/Evolianka/cryptus)
 - adminus:
-  - [documentation (private)](https://github.com/Evolianka/)
-  - [repo](https://github.com/Evolianka/)
+  - [documentation (private)]()
+  - [repo](https://github.com/Evolianka/adminus)
 
 ### Integrations:
 - clickup:
-  - [documentation (private)](https://github.com/Evolianka/)
+  - [documentation (private)]()
   - [repo](https://github.com/Evolianka/)
 - slack:
-  - [documentation (private)](https://github.com/Evolianka/)
+  - [documentation (private)]()
   - [repo](https://github.com/Evolianka/)
 - telegram:
-  - [documentation (private)](https://github.com/Evolianka/)
+  - [documentation (private)]()
   - [repo](https://github.com/Evolianka/)
 - gitlab:
-  - [documentation (private)](https://github.com/Evolianka/)
+  - [documentation (private)]()
 
 ## Common:
 
@@ -99,5 +99,5 @@ and for charity.
   - [angular]()
   - [react]()
 - libs:
-  - [git-hooks]()
-- [github workflows]()
+  - [git-hooks](https://github.com/Evolianka/npm-git-hooks)
+- [github workflows](https://github.com/Evolianka/workflows)
